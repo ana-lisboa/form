@@ -1,6 +1,6 @@
 <?php
 
-use AdamWathan\Form\Elements\Text;
+use AnaLisboa\Form\Elements\Text;
 
 class TextTest extends PHPUnit_Framework_TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-use AdamWathan\Form\Elements\Label;
+use AnaLisboa\Form\Elements\Label;
 
 class LabelTest extends PHPUnit_Framework_TestCase
 {

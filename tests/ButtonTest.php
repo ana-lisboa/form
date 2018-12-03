@@ -1,6 +1,6 @@
 <?php
 
-use AdamWathan\Form\Elements\Button;
+use AnaLisboa\Form\Elements\Button;
 
 class ButtonTest extends PHPUnit_Framework_TestCase
 {

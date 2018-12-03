@@ -1,6 +1,6 @@
 <?php
 
-use AdamWathan\Form\FormBuilder;
+use AnaLisboa\Form\FormBuilder;
 
 class FormBuilderTest extends PHPUnit_Framework_TestCase
 {
